@@ -1,0 +1,1 @@
+SWC (speedy web compiler) es un compilador de alto rendimiento para Javascript y Typescript
